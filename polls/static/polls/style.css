@@ -1,0 +1,12 @@
+li a {
+  color: white;
+  text-decoration: none;
+  font-size: larger;
+}
+
+body {
+  background: white url("images/bg.jpg");
+  background-size: cover; /* This will make the image cover the entire container */
+  background-repeat: no-repeat; /* Prevent image from repeating */
+  background-position: center center;
+}
